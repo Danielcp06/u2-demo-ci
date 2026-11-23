@@ -1,4 +1,4 @@
-{
+npm install{
   "name": "ud2-demo-ci",
   "version": "1.0.0",
   "description": "Proyecto demo para la UD2 de DevOps (CI con Node.js)",
